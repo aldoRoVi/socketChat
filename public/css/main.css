@@ -1,0 +1,19 @@
+body {
+  background: #434343;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.main {
+  height: 200px;
+  width: 500px;
+  display: flex;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+  width: 100%;
+}
